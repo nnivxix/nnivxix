@@ -4,8 +4,8 @@ Recently studying at [dicoding](https://www.dicoding.com/users/nnivxix/academies
 
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: [Han](https://twitter.com/nnivxix)
-- ⚡ Fun fact: Introvert, self-taught, good sense of design.
-- ⚙ Linux Xfce | Sublime Text.
+- ⚡ Fun fact: Introvert, Self-taught, Good sense of design.
+- ⚔️ Linux Xfce | Sublime Text.
 
 
 
