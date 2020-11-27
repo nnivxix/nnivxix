@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+## Welcome to Han's Github Profile 😄
 Currently studying at [dicoding](https://www.dicoding.com/users/nnivxix/academies)
 
 - 🌱 I’m currently learning Javascript.
