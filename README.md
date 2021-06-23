@@ -3,7 +3,7 @@
 
 
 - 🌱 Learning Javascript.
-- 📫 How to reach me: [Han](https://twitter.com/nnivxix)
+- 📫 Reach me on Twitter: [Han](https://twitter.com/nnivxix)
 - ⚡ Fun fact: Introvert, Self-taught, Good sense of design.
 - ⚔️ Linux | Sublime Text.
 
