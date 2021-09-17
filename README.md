@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Welcome to Hanasa's Github Profile 
 
-
+- ⛳ Currently learning Vue.js.
 - 🌱 Learning Javascript.
 - 📫 Reach me on Twitter: [Han](https://twitter.com/nnivxix)
 - ⚡ Fun fact: Introvert, Self-taught, Good sense of design.
