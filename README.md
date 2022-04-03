@@ -3,7 +3,7 @@
 
 - ⛳ Currently learning Vue.js.
 - 🌱 Learning Javascript.
-- 📫 Reach me on Twitter: [Han](https://twitter.com/nnivxix)
+- 📫 Reach me on Twitter: [./hanasa](https://twitter.com/nnivxix)
 - ⚡ Fun fact: Introvert, Self-taught, Good sense of design.
 - ⚔️ Linux | Sublime Text.
 
