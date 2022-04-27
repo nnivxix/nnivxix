@@ -5,7 +5,7 @@
 Front-End Web Developer
 -----------------------
 
-Shifting from garphic designer to front-end web developer
+Shifting from graphic designer to front-end web developer
 
 * 🌍  I'm based in Ciamis
 * 🖥️  See my portfolio at [Hanasa](http://hansoflast.com)
