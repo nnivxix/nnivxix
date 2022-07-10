@@ -12,7 +12,7 @@ Shifting from graphic designer to front-end web developer
 * ✉️  You can contact me at [Hanasa's e-mail](mailto:adhe.hanasa@gmail.com)
 * 🧠  I'm learning JavaScript and PHP
 * 📫 Reach me on Twitter: [./hanasa](https://twitter.com/nnivxix)
-* ⚡ Fun fact: Introvert, Self-taught, Good sense of design.
+* ⚡ Fun fact: Self-taught, Good sense of design.
 
 ### Skills
 
