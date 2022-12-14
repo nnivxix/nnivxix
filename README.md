@@ -10,7 +10,7 @@ Shifting from graphic designer to front-end web developer
 * 🌍  I'm based in Ciamis, West Java, 🇮🇩
 * 🖥️  See my portfolio at [Hanasa](http://hansoflast.com)
 * ✉️  You can contact me at [Hanasa's e-mail](mailto:adhe.hanasa@gmail.com)
-* 🧠  I'm learning JavaScript and PHP
+* ⚔️  JavaScript and PHP. 
 * 📫 Reach me on Twitter: [./hanasa](https://twitter.com/nnivxix)
 * ⚡ Fun fact: Self-taught, Good sense of design.
 
