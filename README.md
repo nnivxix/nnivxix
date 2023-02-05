@@ -9,7 +9,7 @@ Shifting from graphic designer to front-end web developer
 * ✉️  You can contact me at [Hanasa's e-mail](mailto:adhe.hanasa@gmail.com)
 * ⚔️  JavaScript and PHP. 
 * 📫 Reach me on Twitter: [./hanasa](https://twitter.com/nnivxix)
-* ⚡ Fun fact: Self-taught, Good sense of design.
+* 🧠 Fun fact: Self-taught, Good sense of design.
 
 ## <p align="center"> let's connect </p>
 
