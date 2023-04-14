@@ -2,8 +2,6 @@
 
 ## About me
 
-Shifting from graphic designer to front-end web developer
-
 * 🌍  I'm based in Ciamis, West Java, 🇮🇩
 * 🖥️  See my portfolio at [Hanasa](http://hanasa.thedev.id)
 * ✉️  You can contact me at [Hanasa's e-mail](mailto:adhe.hanasa@gmail.com)
