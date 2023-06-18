@@ -3,7 +3,7 @@
 ## About me
 
 * 🌍  He based in Ciamis, West Java, 🇮🇩
-* 🖥️  His portfolio at [Hanasa](http://hanasa.thedev.id)
+* 🖥️  His [portfolio](http://hanasa.thedev.id)
 * ✉️  You can contact him through [e-mail](mailto:adhe.hanasa@gmail.com)
 * ⚔️  Currently he working with JavaScript and PHP. 
 * 📫  Reach him on Twitter: [./hanasa](https://twitter.com/nnivxix)
