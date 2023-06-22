@@ -1,6 +1,6 @@
 # Say 'Hi' to Hanasa ✋
 
-### About Hanasa
+### About 
 * 🌍  He based in Ciamis, West Java, 🇮🇩
 * 🖥️  His [portfolio](http://hanasa.thedev.id)
 * ✉️  You can contact him through [e-mail](mailto:adhe.hanasa@gmail.com)
