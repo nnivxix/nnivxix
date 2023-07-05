@@ -4,7 +4,7 @@
 * 🌍  He based in Ciamis, West Java, 🇮🇩
 * 🖥️  His [portfolio](http://hanasa.thedev.id)
 * ✉️  You can contact him through [e-mail](mailto:adhe.hanasa@gmail.com)
-* ⚔️  Currently he working with JavaScript and PHP. 
+* ⚔️  JavaScript and PHP.
 * 📫  Reach him on Twitter: [./hanasa](https://twitter.com/nnivxix)
 * 🧠  Self-taught, Good sense of design.
 
