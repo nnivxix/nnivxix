@@ -6,7 +6,7 @@
 * ✉️  You can contact him through [e-mail](mailto:adhe.hanasa@gmail.com)
 * ⚔️  JavaScript and PHP.
 * 📫  Reach him on Twitter: [./hanasa](https://twitter.com/nnivxix)
-* 🧠  Self-taught, Good sense of design.
+* 🧠  Think then create.
 
 ### Skills 
 <p align="left">
