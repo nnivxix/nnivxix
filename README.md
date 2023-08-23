@@ -5,7 +5,6 @@
 * 🖥️  His [portfolio](http://hanasa.thedev.id)
 * ✉️  You can contact him through [e-mail](mailto:adhe.hanasa@gmail.com)
 * ⚔️  JavaScript and PHP.
-* 📫  Reach him on X: [./hanasa](https://x.com/nnivxix)
 * 🧠  Think then create.
 
 ### Skills 
