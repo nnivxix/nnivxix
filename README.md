@@ -3,7 +3,7 @@
 ## About 
 * 👨‍🔧 He is a Web Developer.
 * 💼 He currently working @GilgameshSG ([Gilgamesh Singapore](https://github.com/GilgameshSG)).
-* 🖥️ His [portfolio](http://hanasa.thedev.id).
+* 🖥️ His [portfolio]([http://hanasa.thedev.id](https://hanasa.id?utm_source=github&utm_medium=profile)).
 * ✉️ You can contact him at [adhe.hanasa@gmail.com](mailto:adhe.hanasa@gmail.com).
 * ⚔️ JavaScript, TypeScript and PHP.
 * 🧠 Think then create.
